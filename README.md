@@ -1,0 +1,2 @@
+# generativeAi
+All GenAi assingment
